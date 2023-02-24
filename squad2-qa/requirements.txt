@@ -1,1 +1,4 @@
 transformers[tf-cpu]
+farm-haystack
+typing-extensions==4.3.0
+faiss-cpu
